@@ -1,10 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single+Ink:wght@100..900&display=swap');
 @import url('https://icons8.com/icon/aBNtkpYvycsP/search');
+/*@import "~../node_modules/bootstrap/dist/css/bootstrap.min.css";*/
 a {
   font-family: "Bitcount Single Ink", system-ui;
   font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;  
 }
-
+a {
+  text-decoration: none;
+  padding: 0 10px;
+  color: brown;
+}

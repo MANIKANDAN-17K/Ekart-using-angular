@@ -24,13 +24,7 @@
 }
 
 /* Top navigation bar styles */
-.ekart-top-bar {
-  width: auto;
-  text-align: right;
-  padding-top: 3px;
-  padding-bottom: 15px;
-  padding-right: 30px;
-}
+
 
 /* Menu styles */
 .ekart-menu {
@@ -70,7 +64,4 @@
   margin-left: -5px;
 }
 
-a {
-  text-decoration: none;
-  padding: 0 10px;
-}
+
